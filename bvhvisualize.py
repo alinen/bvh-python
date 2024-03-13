@@ -1,3 +1,5 @@
+# bvhvisualizer.py, Aline Normoyle, 2024
+
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import numpy as np

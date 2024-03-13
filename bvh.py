@@ -1,4 +1,4 @@
-# bvhreader.py, Aline Normoyle 2013
+# bvh.py, Aline Normoyle 2013
 
 import glm, math
 

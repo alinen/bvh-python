@@ -1,3 +1,4 @@
+# example.py, Aline Normoyle, 2024
 from bvh import *
 from bvhvisualize import *
 import numpy as np

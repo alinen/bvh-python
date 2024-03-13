@@ -1,3 +1,5 @@
+# bvh2csv.py, Aline Normoyle, 2024
+
 from bvh import *
 import numpy as np
 import glm
