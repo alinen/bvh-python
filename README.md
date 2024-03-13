@@ -22,3 +22,4 @@ BVHAnimator(animation)
 
 See `example.py` for an example. 
 
+![samba](https://github.com/alinen/bvh-python/assets/259657/62856bdc-c08b-420f-ab06-a8af99ffd61e)
